@@ -1,5 +1,6 @@
 body {
-    font-family: 'Segoe UI', sans-serif;
+    /*font-family: 'Segoe UI', sans-serif;*/
+    font-family: 'Dancing Script', cursive;
     background: linear-gradient(to bottom, #2B124C, #522B5B);
     margin: 0;
     padding: 40px;
@@ -12,7 +13,6 @@ body {
     /*max-width: 600px;*/
     margin: 0 auto;
     padding: 20px;
-    background-color: #190019;
     border-radius: 20px;
     box-shadow: 0 0 15px rgba(0,0,0,0.4);
 }
